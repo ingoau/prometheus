@@ -11,13 +11,13 @@
   },
   "author": "",
   "dependencies": {
-    "@slack/bolt": "^4.7.2",
+    "@slack/bolt": "^4.7.3",
     "dotenv": "^17.4.2",
     "tldts": "^7.0.30"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "eslint": "^10.4.0",
+    "eslint": "^10.4.1",
     "globals": "^17.6.0"
   }
 }
