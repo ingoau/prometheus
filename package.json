@@ -33,5 +33,10 @@
     "drizzle-kit": "0.31.11",
     "oxfmt": "^0.72.0",
     "oxlint": "^1.87.0"
+  },
+  "overrides": {
+    "body-parser": "^2.4.0",
+    "follow-redirects": "^1.16.2",
+    "zod": "^4.6.6"
   }
 }
